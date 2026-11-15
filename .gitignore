@@ -1,0 +1,14 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local runtime and package artifacts
+*.log
+!QA_REPORTS/build_logs/*.log
+*.tmp
+*.bak
+node_modules/

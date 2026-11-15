@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#173d35">
+  <meta name="description" content="HERBULANCE LIFE TOOLKIT — The Complete Digital Edition. Thirty interactive health, wellness, nutrition and lifestyle education volumes in one offline-first library.">
+  <title>HERBULANCE LIFE TOOLKIT — The Complete Digital Edition</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div id="app-shell">
+    <header class="topbar">
+      <button class="icon-button menu-button" id="menu-button" aria-label="Open navigation" aria-expanded="false" aria-controls="side-nav"><span aria-hidden="true">☰</span></button>
+      <a class="brand" href="#dashboard" aria-label="HERBULANCE LIFE TOOLKIT dashboard">
+        <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 42 42"><path d="M21 4c9 4 14 10 13 18-1 10-9 15-19 15C8 31 5 24 8 17 11 10 17 7 21 4Z"/><path d="M12 29c6-7 11-12 19-16M20 20c-1-4-1-7 0-11M20 20c4 0 7 1 10 3"/></svg></span>
+        <span><strong>HERBULANCE</strong><small>LIFE TOOLKIT</small></span>
+      </a>
+      <button class="search-launch" id="search-launch" type="button" aria-label="Search all 30 volumes"><span aria-hidden="true">⌕</span><span>Search the collection</span><kbd>/</kbd></button>
+      <div class="top-actions">
+        <button class="icon-button" id="theme-button" aria-label="Switch colour theme" title="Switch colour theme"><span aria-hidden="true">◐</span></button>
+        <a class="icon-button" href="#personal" aria-label="Personal learning space" title="Personal learning space"><span aria-hidden="true">♡</span></a>
+      </div>
+    </header>
+
+    <aside class="side-nav" id="side-nav" aria-label="Primary navigation">
+      <div class="side-inner">
+        <p class="nav-label">Explore</p>
+        <nav>
+          <a href="#dashboard" data-route="dashboard"><span aria-hidden="true">⌂</span> Dashboard</a>
+          <a href="#library" data-route="library"><span aria-hidden="true">▦</span> Complete library</a>
+          <a href="#systems" data-route="systems"><span aria-hidden="true">◎</span> Seven life systems</a>
+          <a href="#stages" data-route="stages"><span aria-hidden="true">◌</span> Seven life stages</a>
+          <a href="#search" data-route="search"><span aria-hidden="true">⌕</span> Global search</a>
+        </nav>
+        <p class="nav-label">Learn & use</p>
+        <nav>
+          <a href="#quick" data-route="quick"><span aria-hidden="true">✓</span> Quick Action Centre</a>
+          <a href="#learning" data-route="learning"><span aria-hidden="true">◇</span> Learning Centre</a>
+          <a href="#glossary" data-route="glossary"><span aria-hidden="true">Aa</span> Glossary</a>
+          <a href="#references" data-route="references"><span aria-hidden="true">§</span> Reference Centre</a>
+          <a href="#personal" data-route="personal"><span aria-hidden="true">♡</span> Personal learning</a>
+        </nav>
+        <p class="nav-label">Product</p>
+        <nav>
+          <a href="#help" data-route="help"><span aria-hidden="true">?</span> Information & help</a>
+        </nav>
+        <div class="offline-badge"><span aria-hidden="true">●</span><div><strong>Offline ready</strong><small>No account or connection required</small></div></div>
+      </div>
+    </aside>
+    <div class="nav-scrim" id="nav-scrim" hidden></div>
+
+    <main id="main-content" tabindex="-1"><div class="loading-state"><span class="loader" aria-hidden="true"></span><p>Opening your library…</p></div></main>
+  </div>
+
+  <dialog id="search-dialog" class="search-dialog" aria-labelledby="search-dialog-title">
+    <form method="dialog" class="dialog-head"><div><p class="eyebrow">Across 30 volumes</p><h2 id="search-dialog-title">Search the Life Toolkit</h2></div><button class="icon-button" value="cancel" aria-label="Close search">×</button></form>
+    <form id="quick-search-form" class="dialog-search"><label class="sr-only" for="quick-search-input">Search terms</label><input id="quick-search-input" name="q" type="search" autocomplete="off" placeholder="Try “sleep routine”, “food allergy” or “blood pressure”"><button class="button primary" type="submit">Search</button></form>
+    <div id="quick-search-results" class="quick-results" aria-live="polite"><p class="muted">Search chapter headings, body text, glossaries, worksheets, quizzes and references. Everything is indexed locally.</p></div>
+  </dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="assets/js/catalog.js"></script>
+  <script src="assets/js/search-data.js"></script>
+  <script src="assets/js/glossary-data.js"></script>
+  <script src="assets/js/reference-data.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

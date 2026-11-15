@@ -1,0 +1,19 @@
+
+> react-vite-tailwind@0.0.0 build
+> vite build --base ./
+
+vite v7.3.7 building client environment for production...
+transforming...
+
+./assets/fonts/fraunces-latin-wght-normal.woff2 referenced in ./assets/fonts/fraunces-latin-wght-normal.woff2 didn't resolve at build time, it will remain unchanged to be resolved at runtime
+
+./assets/fonts/inter-latin-wght-normal.woff2 referenced in ./assets/fonts/inter-latin-wght-normal.woff2 didn't resolve at build time, it will remain unchanged to be resolved at runtime
+✓ 1016 modules transformed.
+✗ Build failed in 5.07s
+error during build:
+Could not resolve "../assets/images/part1.jpg" from "src/data/index.ts"
+file: /home/user/herbulance-project/02_extracted_sources/book-05/src/data/index.ts
+    at getRollupError (file:///home/user/herbulance-project/build-environment/node_modules/rollup/dist/es/shared/parseAst.js:355:41)
+    at error (file:///home/user/herbulance-project/build-environment/node_modules/rollup/dist/es/shared/parseAst.js:351:42)
+    at ModuleLoader.handleInvalidResolvedId (file:///home/user/herbulance-project/build-environment/node_modules/rollup/dist/es/shared/node-entry.js:23514:24)
+    at file:///home/user/herbulance-project/build-environment/node_modules/rollup/dist/es/shared/node-entry.js:23474:26

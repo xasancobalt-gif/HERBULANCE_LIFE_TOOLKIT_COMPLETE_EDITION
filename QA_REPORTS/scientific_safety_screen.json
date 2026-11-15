@@ -1,0 +1,714 @@
+{
+  "screenedAt": "2026-11-15T20:19:27.867733+00:00",
+  "scope": {
+    "books": 30,
+    "chapters": 1541,
+    "searchDocuments": 3969,
+    "structuredReferenceRecords": 654
+  },
+  "methods": [
+    "source-aware canonical chapter inventory",
+    "regular-expression risk-language screening",
+    "structured reference host inventory",
+    "manual contextual sampling of cure, guarantee, detox, reversal and numeric-threshold hits"
+  ],
+  "limitations": [
+    "not a clinician-conducted line-by-line peer review",
+    "flag counts identify review priorities and are not defect counts",
+    "structured reference extraction does not capture every bibliography format"
+  ],
+  "topReferenceHosts": [
+    [
+      "who.int",
+      84
+    ],
+    [
+      "nhs.uk",
+      69
+    ],
+    [
+      "doi.org",
+      58
+    ],
+    [
+      "niddk.nih.gov",
+      44
+    ],
+    [
+      "cdc.gov",
+      32
+    ],
+    [
+      "ods.od.nih.gov",
+      23
+    ],
+    [
+      "pubmed.ncbi.nlm.nih.gov",
+      20
+    ],
+    [
+      "nei.nih.gov",
+      18
+    ],
+    [
+      "ninds.nih.gov",
+      17
+    ],
+    [
+      "medlineplus.gov",
+      17
+    ],
+    [
+      "nice.org.uk",
+      16
+    ],
+    [
+      "nccih.nih.gov",
+      13
+    ],
+    [
+      "fao.org",
+      13
+    ],
+    [
+      "nidcd.nih.gov",
+      13
+    ],
+    [
+      "eur-lex.europa.eu",
+      10
+    ],
+    [
+      "nia.nih.gov",
+      9
+    ],
+    [
+      "fda.gov",
+      8
+    ],
+    [
+      "nap.nationalacademies.org",
+      8
+    ],
+    [
+      "kdigo.org",
+      8
+    ],
+    [
+      "nhlbi.nih.gov",
+      6
+    ],
+    [
+      "niams.nih.gov",
+      6
+    ],
+    [
+      "gov.uk",
+      5
+    ],
+    [
+      "ecfr.gov",
+      5
+    ],
+    [
+      "ncbi.nlm.nih.gov",
+      4
+    ],
+    [
+      "efsa.europa.eu",
+      4
+    ],
+    [
+      "niaid.nih.gov",
+      4
+    ],
+    [
+      "entnet.org",
+      4
+    ],
+    [
+      "food.gov.uk",
+      3
+    ],
+    [
+      "fdc.nal.usda.gov",
+      3
+    ],
+    [
+      "nutritionsource.hsph.harvard.edu",
+      3
+    ]
+  ],
+  "books": [
+    {
+      "volume": 1,
+      "title": "The Plant-Forward Beginner's Guide",
+      "chapters": 12,
+      "indexedWords": 3489,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 1,
+      "flags": {
+        "professionalCare": 2,
+        "emergency": 0,
+        "medication": 0,
+        "pregnancy": 2,
+        "numericDoseOrThreshold": 0,
+        "evidenceLanguage": 1,
+        "cureLanguage": 0,
+        "guaranteeLanguage": 0,
+        "detoxLanguage": 1
+      }
+    },
+    {
+      "volume": 2,
+      "title": "The Complete Guide to Gut Health & Digestion",
+      "chapters": 12,
+      "indexedWords": 10536,
+      "structuredReferences": 50,
+      "searchReferenceRecords": 51,
+      "flags": {
+        "professionalCare": 24,
+        "emergency": 9,
+        "medication": 11,
+        "pregnancy": 8,
+        "numericDoseOrThreshold": 3,
+        "evidenceLanguage": 24,
+        "cureLanguage": 3,
+        "guaranteeLanguage": 1,
+        "detoxLanguage": 5
+      }
+    },
+    {
+      "volume": 3,
+      "title": "The World of Herbs & Spices",
+      "chapters": 22,
+      "indexedWords": 10060,
+      "structuredReferences": 31,
+      "searchReferenceRecords": 32,
+      "flags": {
+        "professionalCare": 4,
+        "emergency": 0,
+        "medication": 28,
+        "pregnancy": 7,
+        "numericDoseOrThreshold": 2,
+        "evidenceLanguage": 12,
+        "cureLanguage": 1,
+        "guaranteeLanguage": 6,
+        "detoxLanguage": 2
+      }
+    },
+    {
+      "volume": 4,
+      "title": "The Smart Food Shopping & Label Reading Guide",
+      "chapters": 31,
+      "indexedWords": 19544,
+      "structuredReferences": 55,
+      "searchReferenceRecords": 56,
+      "flags": {
+        "professionalCare": 12,
+        "emergency": 0,
+        "medication": 4,
+        "pregnancy": 2,
+        "numericDoseOrThreshold": 35,
+        "evidenceLanguage": 41,
+        "cureLanguage": 3,
+        "guaranteeLanguage": 10,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 5,
+      "title": "The Complete Food Safety & Kitchen Hygiene Guide",
+      "chapters": 34,
+      "indexedWords": 19153,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 1,
+      "flags": {
+        "professionalCare": 9,
+        "emergency": 13,
+        "medication": 1,
+        "pregnancy": 12,
+        "numericDoseOrThreshold": 0,
+        "evidenceLanguage": 14,
+        "cureLanguage": 3,
+        "guaranteeLanguage": 17,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 6,
+      "title": "The Complete Guide to Cooking Methods, Kitchen Techniques & Culinary Skills",
+      "chapters": 33,
+      "indexedWords": 12576,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 0,
+      "flags": {
+        "professionalCare": 0,
+        "emergency": 1,
+        "medication": 0,
+        "pregnancy": 0,
+        "numericDoseOrThreshold": 0,
+        "evidenceLanguage": 1,
+        "cureLanguage": 0,
+        "guaranteeLanguage": 7,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 7,
+      "title": "The Complete Guide to Meal Planning, Balanced Nutrition & Everyday Food Preparation",
+      "chapters": 36,
+      "indexedWords": 11093,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 0,
+      "flags": {
+        "professionalCare": 11,
+        "emergency": 2,
+        "medication": 9,
+        "pregnancy": 17,
+        "numericDoseOrThreshold": 1,
+        "evidenceLanguage": 6,
+        "cureLanguage": 1,
+        "guaranteeLanguage": 5,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 8,
+      "title": "The Complete Guide to Food Preservation, Fermentation & Sustainable Food Storage",
+      "chapters": 27,
+      "indexedWords": 15204,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 0,
+      "flags": {
+        "professionalCare": 0,
+        "emergency": 13,
+        "medication": 0,
+        "pregnancy": 1,
+        "numericDoseOrThreshold": 1,
+        "evidenceLanguage": 4,
+        "cureLanguage": 9,
+        "guaranteeLanguage": 5,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 9,
+      "title": "The Complete Guide to Food Allergies, Intolerances & Special Dietary Needs",
+      "chapters": 30,
+      "indexedWords": 14751,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 0,
+      "flags": {
+        "professionalCare": 64,
+        "emergency": 49,
+        "medication": 22,
+        "pregnancy": 3,
+        "numericDoseOrThreshold": 6,
+        "evidenceLanguage": 7,
+        "cureLanguage": 0,
+        "guaranteeLanguage": 13,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 10,
+      "title": "The Complete Guide to Food Nutrition, Vitamins, Minerals & Essential Nutrients",
+      "chapters": 58,
+      "indexedWords": 29442,
+      "structuredReferences": 26,
+      "searchReferenceRecords": 27,
+      "flags": {
+        "professionalCare": 14,
+        "emergency": 1,
+        "medication": 23,
+        "pregnancy": 63,
+        "numericDoseOrThreshold": 248,
+        "evidenceLanguage": 59,
+        "cureLanguage": 5,
+        "guaranteeLanguage": 1,
+        "detoxLanguage": 2
+      }
+    },
+    {
+      "volume": 11,
+      "title": "The Complete Guide to Healthy Weight Management, Metabolism & Sustainable Lifestyle Habits",
+      "chapters": 41,
+      "indexedWords": 16294,
+      "structuredReferences": 32,
+      "searchReferenceRecords": 33,
+      "flags": {
+        "professionalCare": 14,
+        "emergency": 6,
+        "medication": 24,
+        "pregnancy": 37,
+        "numericDoseOrThreshold": 1,
+        "evidenceLanguage": 34,
+        "cureLanguage": 0,
+        "guaranteeLanguage": 1,
+        "detoxLanguage": 1
+      }
+    },
+    {
+      "volume": 12,
+      "title": "The Complete Guide to Sleep, Circadian Rhythm & Natural Restorative Living",
+      "chapters": 50,
+      "indexedWords": 33908,
+      "structuredReferences": 25,
+      "searchReferenceRecords": 26,
+      "flags": {
+        "professionalCare": 76,
+        "emergency": 9,
+        "medication": 97,
+        "pregnancy": 41,
+        "numericDoseOrThreshold": 6,
+        "evidenceLanguage": 96,
+        "cureLanguage": 27,
+        "guaranteeLanguage": 8,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 13,
+      "title": "The Complete Guide to Stress Management, Emotional Wellbeing & Mind-Body Balance",
+      "chapters": 55,
+      "indexedWords": 8608,
+      "structuredReferences": 26,
+      "searchReferenceRecords": 27,
+      "flags": {
+        "professionalCare": 12,
+        "emergency": 4,
+        "medication": 10,
+        "pregnancy": 1,
+        "numericDoseOrThreshold": 0,
+        "evidenceLanguage": 36,
+        "cureLanguage": 5,
+        "guaranteeLanguage": 1,
+        "detoxLanguage": 2
+      }
+    },
+    {
+      "volume": 14,
+      "title": "The Complete Guide to Physical Activity, Movement, Exercise & Lifelong Fitness",
+      "chapters": 54,
+      "indexedWords": 30140,
+      "structuredReferences": 42,
+      "searchReferenceRecords": 43,
+      "flags": {
+        "professionalCare": 42,
+        "emergency": 30,
+        "medication": 30,
+        "pregnancy": 25,
+        "numericDoseOrThreshold": 14,
+        "evidenceLanguage": 67,
+        "cureLanguage": 1,
+        "guaranteeLanguage": 4,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 15,
+      "title": "The Complete Guide to Healthy Ageing, Longevity & Lifelong Vitality",
+      "chapters": 60,
+      "indexedWords": 41791,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 1,
+      "flags": {
+        "professionalCare": 96,
+        "emergency": 33,
+        "medication": 157,
+        "pregnancy": 4,
+        "numericDoseOrThreshold": 10,
+        "evidenceLanguage": 120,
+        "cureLanguage": 2,
+        "guaranteeLanguage": 23,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 16,
+      "title": "The Complete Guide to Healthy Skin, Hair, Nails & Personal Care",
+      "chapters": 60,
+      "indexedWords": 26025,
+      "structuredReferences": 10,
+      "searchReferenceRecords": 11,
+      "flags": {
+        "professionalCare": 6,
+        "emergency": 6,
+        "medication": 9,
+        "pregnancy": 29,
+        "numericDoseOrThreshold": 11,
+        "evidenceLanguage": 24,
+        "cureLanguage": 4,
+        "guaranteeLanguage": 4,
+        "detoxLanguage": 2
+      }
+    },
+    {
+      "volume": 17,
+      "title": "The Complete Guide to Hormonal Health, Endocrine Balance & Metabolic Wellbeing",
+      "chapters": 62,
+      "indexedWords": 13667,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 0,
+      "flags": {
+        "professionalCare": 28,
+        "emergency": 11,
+        "medication": 59,
+        "pregnancy": 57,
+        "numericDoseOrThreshold": 11,
+        "evidenceLanguage": 39,
+        "cureLanguage": 0,
+        "guaranteeLanguage": 3,
+        "detoxLanguage": 6
+      }
+    },
+    {
+      "volume": 18,
+      "title": "The Complete Guide to Heart Health, Blood Circulation & Cardiovascular Wellness",
+      "chapters": 70,
+      "indexedWords": 36020,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 0,
+      "flags": {
+        "professionalCare": 90,
+        "emergency": 56,
+        "medication": 96,
+        "pregnancy": 39,
+        "numericDoseOrThreshold": 35,
+        "evidenceLanguage": 129,
+        "cureLanguage": 10,
+        "guaranteeLanguage": 8,
+        "detoxLanguage": 4
+      }
+    },
+    {
+      "volume": 19,
+      "title": "The Complete Guide to Brain Health, Memory, Cognitive Function & Mental Performance",
+      "chapters": 74,
+      "indexedWords": 40726,
+      "structuredReferences": 45,
+      "searchReferenceRecords": 46,
+      "flags": {
+        "professionalCare": 38,
+        "emergency": 65,
+        "medication": 66,
+        "pregnancy": 24,
+        "numericDoseOrThreshold": 14,
+        "evidenceLanguage": 104,
+        "cureLanguage": 13,
+        "guaranteeLanguage": 19,
+        "detoxLanguage": 7
+      }
+    },
+    {
+      "volume": 20,
+      "title": "The Complete Guide to Immune System Health, Immunity & Natural Defence Mechanisms",
+      "chapters": 81,
+      "indexedWords": 17626,
+      "structuredReferences": 31,
+      "searchReferenceRecords": 32,
+      "flags": {
+        "professionalCare": 36,
+        "emergency": 19,
+        "medication": 45,
+        "pregnancy": 30,
+        "numericDoseOrThreshold": 19,
+        "evidenceLanguage": 34,
+        "cureLanguage": 4,
+        "guaranteeLanguage": 12,
+        "detoxLanguage": 6
+      }
+    },
+    {
+      "volume": 21,
+      "title": "The Complete Guide to Respiratory Health, Lung Function & Healthy Breathing",
+      "chapters": 80,
+      "indexedWords": 19083,
+      "structuredReferences": 28,
+      "searchReferenceRecords": 29,
+      "flags": {
+        "professionalCare": 43,
+        "emergency": 11,
+        "medication": 35,
+        "pregnancy": 2,
+        "numericDoseOrThreshold": 6,
+        "evidenceLanguage": 25,
+        "cureLanguage": 19,
+        "guaranteeLanguage": 2,
+        "detoxLanguage": 6
+      }
+    },
+    {
+      "volume": 22,
+      "title": "The Complete Guide to Kidney Health, Urinary Function & Renal Wellness",
+      "chapters": 80,
+      "indexedWords": 24227,
+      "structuredReferences": 99,
+      "searchReferenceRecords": 100,
+      "flags": {
+        "professionalCare": 76,
+        "emergency": 22,
+        "medication": 120,
+        "pregnancy": 35,
+        "numericDoseOrThreshold": 13,
+        "evidenceLanguage": 26,
+        "cureLanguage": 5,
+        "guaranteeLanguage": 0,
+        "detoxLanguage": 2
+      }
+    },
+    {
+      "volume": 23,
+      "title": "The Complete Guide to Liver Health, Liver Function & Metabolic Wellness",
+      "chapters": 80,
+      "indexedWords": 19549,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 0,
+      "flags": {
+        "professionalCare": 38,
+        "emergency": 24,
+        "medication": 76,
+        "pregnancy": 29,
+        "numericDoseOrThreshold": 22,
+        "evidenceLanguage": 31,
+        "cureLanguage": 9,
+        "guaranteeLanguage": 2,
+        "detoxLanguage": 14
+      }
+    },
+    {
+      "volume": 24,
+      "title": "The Complete Guide to Bone Health, Joint Function & Musculoskeletal Wellness",
+      "chapters": 80,
+      "indexedWords": 50693,
+      "structuredReferences": 32,
+      "searchReferenceRecords": 33,
+      "flags": {
+        "professionalCare": 88,
+        "emergency": 25,
+        "medication": 118,
+        "pregnancy": 43,
+        "numericDoseOrThreshold": 50,
+        "evidenceLanguage": 54,
+        "cureLanguage": 14,
+        "guaranteeLanguage": 19,
+        "detoxLanguage": 2
+      }
+    },
+    {
+      "volume": 25,
+      "title": "The Complete Guide to Nervous System Health, Nerve Function & Neurological Wellness",
+      "chapters": 80,
+      "indexedWords": 41662,
+      "structuredReferences": 62,
+      "searchReferenceRecords": 63,
+      "flags": {
+        "professionalCare": 49,
+        "emergency": 92,
+        "medication": 116,
+        "pregnancy": 20,
+        "numericDoseOrThreshold": 16,
+        "evidenceLanguage": 76,
+        "cureLanguage": 16,
+        "guaranteeLanguage": 35,
+        "detoxLanguage": 9
+      }
+    },
+    {
+      "volume": 26,
+      "title": "The Complete Guide to Eye Health, Vision, Visual Function & Lifelong Eye Care",
+      "chapters": 80,
+      "indexedWords": 6308,
+      "structuredReferences": 25,
+      "searchReferenceRecords": 26,
+      "flags": {
+        "professionalCare": 18,
+        "emergency": 6,
+        "medication": 8,
+        "pregnancy": 7,
+        "numericDoseOrThreshold": 5,
+        "evidenceLanguage": 6,
+        "cureLanguage": 5,
+        "guaranteeLanguage": 6,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 27,
+      "title": "The Complete Guide to Oral Health, Teeth, Gums & Lifelong Dental Wellness",
+      "chapters": 80,
+      "indexedWords": 4009,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 0,
+      "flags": {
+        "professionalCare": 8,
+        "emergency": 5,
+        "medication": 14,
+        "pregnancy": 6,
+        "numericDoseOrThreshold": 1,
+        "evidenceLanguage": 3,
+        "cureLanguage": 3,
+        "guaranteeLanguage": 3,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 28,
+      "title": "The Complete Guide to Ear Health, Hearing, Balance & Vestibular Wellness",
+      "chapters": 22,
+      "indexedWords": 21080,
+      "structuredReferences": 35,
+      "searchReferenceRecords": 36,
+      "flags": {
+        "professionalCare": 54,
+        "emergency": 52,
+        "medication": 39,
+        "pregnancy": 4,
+        "numericDoseOrThreshold": 5,
+        "evidenceLanguage": 30,
+        "cureLanguage": 13,
+        "guaranteeLanguage": 9,
+        "detoxLanguage": 0
+      }
+    },
+    {
+      "volume": 29,
+      "title": "The Complete Guide to Reproductive, Sexual & Lifelong Reproductive Health",
+      "chapters": 26,
+      "indexedWords": 26151,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 1,
+      "flags": {
+        "professionalCare": 9,
+        "emergency": 35,
+        "medication": 38,
+        "pregnancy": 82,
+        "numericDoseOrThreshold": 17,
+        "evidenceLanguage": 75,
+        "cureLanguage": 4,
+        "guaranteeLanguage": 4,
+        "detoxLanguage": 4
+      }
+    },
+    {
+      "volume": 30,
+      "title": "The Complete Guide to First Aid, Injury Prevention & Everyday Emergency Preparedness",
+      "chapters": 31,
+      "indexedWords": 32916,
+      "structuredReferences": 0,
+      "searchReferenceRecords": 1,
+      "flags": {
+        "professionalCare": 33,
+        "emergency": 152,
+        "medication": 56,
+        "pregnancy": 8,
+        "numericDoseOrThreshold": 9,
+        "evidenceLanguage": 18,
+        "cureLanguage": 0,
+        "guaranteeLanguage": 1,
+        "detoxLanguage": 0
+      }
+    }
+  ]
+}

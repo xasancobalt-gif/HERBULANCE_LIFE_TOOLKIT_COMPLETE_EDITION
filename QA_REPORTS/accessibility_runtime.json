@@ -1,0 +1,701 @@
+{
+  "runAt": "2026-11-15T20:22:12.330Z",
+  "standard": [
+    "wcag2a",
+    "wcag2aa",
+    "wcag21a",
+    "wcag21aa"
+  ],
+  "pages": [
+    {
+      "label": "shell-dashboard",
+      "url": "http://127.0.0.1:4173/#dashboard",
+      "title": "Dashboard — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 32
+        }
+      ],
+      "passes": 19,
+      "errors": []
+    },
+    {
+      "label": "shell-library",
+      "url": "http://127.0.0.1:4173/#library",
+      "title": "Complete Library — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 74
+        }
+      ],
+      "passes": 21,
+      "errors": []
+    },
+    {
+      "label": "shell-systems",
+      "url": "http://127.0.0.1:4173/#systems",
+      "title": "Seven Life Systems — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 19
+        }
+      ],
+      "passes": 18,
+      "errors": []
+    },
+    {
+      "label": "shell-stages",
+      "url": "http://127.0.0.1:4173/#stages",
+      "title": "Seven Life Stages — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 19
+        }
+      ],
+      "passes": 18,
+      "errors": []
+    },
+    {
+      "label": "shell-search?q=sleep",
+      "url": "http://127.0.0.1:4173/#search?q=sleep",
+      "title": "Global Search — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 12
+        }
+      ],
+      "passes": 21,
+      "errors": []
+    },
+    {
+      "label": "shell-quick",
+      "url": "http://127.0.0.1:4173/#quick",
+      "title": "Quick Action Centre — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 12
+        }
+      ],
+      "passes": 19,
+      "errors": []
+    },
+    {
+      "label": "shell-learning?type=quiz",
+      "url": "http://127.0.0.1:4173/#learning?type=quiz",
+      "title": "Learning Centre — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 12
+        }
+      ],
+      "passes": 19,
+      "errors": []
+    },
+    {
+      "label": "shell-glossary",
+      "url": "http://127.0.0.1:4173/#glossary",
+      "title": "Unified Glossary — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 12
+        }
+      ],
+      "passes": 19,
+      "errors": []
+    },
+    {
+      "label": "shell-references",
+      "url": "http://127.0.0.1:4173/#references",
+      "title": "Reference Centre — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 12
+        }
+      ],
+      "passes": 22,
+      "errors": []
+    },
+    {
+      "label": "shell-personal",
+      "url": "http://127.0.0.1:4173/#personal",
+      "title": "Personal Learning Space — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 13
+        }
+      ],
+      "passes": 20,
+      "errors": []
+    },
+    {
+      "label": "shell-help",
+      "url": "http://127.0.0.1:4173/#help",
+      "title": "Product Information & Help — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 12
+        }
+      ],
+      "passes": 21,
+      "errors": []
+    },
+    {
+      "label": "shell-book-01",
+      "url": "http://127.0.0.1:4173/#book-01",
+      "title": "Volume 01 · The Plant-Forward Beginner's Guide — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 21
+        }
+      ],
+      "passes": 20,
+      "errors": []
+    },
+    {
+      "label": "shell-read-search-1",
+      "url": "http://127.0.0.1:4173/#read-search-1",
+      "title": "Page not found — HERBULANCE LIFE TOOLKIT",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 12
+        }
+      ],
+      "passes": 18,
+      "errors": []
+    },
+    {
+      "label": "book-01",
+      "url": "http://127.0.0.1:4173/books/book-01/index.html",
+      "title": "HERBULANCE — The Plant-Forward Beginner's Guide | Interactive Digital Book",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 17
+        }
+      ],
+      "passes": 30,
+      "errors": []
+    },
+    {
+      "label": "book-02",
+      "url": "http://127.0.0.1:4173/books/book-02/index.html",
+      "title": "The Gut Health & Digestion Guide — HERBULANCE Book 02",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 337
+        },
+        {
+          "id": "duplicate-id-aria",
+          "impact": "critical",
+          "nodes": 4
+        }
+      ],
+      "passes": 39,
+      "errors": []
+    },
+    {
+      "label": "book-03",
+      "url": "http://127.0.0.1:4173/books/book-03/index.html",
+      "title": "The World of Herbs & Spices — HERBULANCE Book 03",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 97
+        }
+      ],
+      "passes": 26,
+      "errors": []
+    },
+    {
+      "label": "book-04",
+      "url": "http://127.0.0.1:4173/books/book-04/index.html",
+      "title": "The Smart Food Shopping & Label Reading Guide · HERBULANCE",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 3
+        }
+      ],
+      "passes": 23,
+      "errors": []
+    },
+    {
+      "label": "book-05",
+      "url": "http://127.0.0.1:4173/books/book-05/index.html",
+      "title": "The Complete Food Safety & Kitchen Hygiene Guide · HERBULANCE Book 05",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 19
+        }
+      ],
+      "passes": 26,
+      "errors": []
+    },
+    {
+      "label": "book-06",
+      "url": "http://127.0.0.1:4173/books/book-06/index.html",
+      "title": "HERBULANCE Book 06 | Cooking Methods & Culinary Skills",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 15
+        }
+      ],
+      "passes": 19,
+      "errors": []
+    },
+    {
+      "label": "book-07",
+      "url": "http://127.0.0.1:4173/books/book-07/index.html",
+      "title": "The Complete Guide to Meal Planning | HERBULANCE Book 07",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 25
+        }
+      ],
+      "passes": 23,
+      "errors": []
+    },
+    {
+      "label": "book-08",
+      "url": "http://127.0.0.1:4173/books/book-08/index.html",
+      "title": "HERBULANCE Book 08 — Food Preservation, Fermentation & Sustainable Food Storage",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 12
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 279
+        }
+      ],
+      "passes": 31,
+      "errors": []
+    },
+    {
+      "label": "book-09",
+      "url": "http://127.0.0.1:4173/books/book-09/index.html",
+      "title": "HERBULANCE Book 09 — Food Allergies, Intolerances & Special Dietary Needs",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 76
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ],
+      "passes": 27,
+      "errors": []
+    },
+    {
+      "label": "book-10",
+      "url": "http://127.0.0.1:4173/books/book-10/index.html",
+      "title": "HERBULANCE Book 10 — The Complete Guide to Food Nutrition, Vitamins, Minerals & Essential Nutrients",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 6
+        }
+      ],
+      "passes": 28,
+      "errors": []
+    },
+    {
+      "label": "book-11",
+      "url": "http://127.0.0.1:4173/books/book-11/index.html",
+      "title": "HERBULANCE Book 11 — Healthy Weight Management, Metabolism & Sustainable Lifestyle Habits",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 103
+        }
+      ],
+      "passes": 25,
+      "errors": []
+    },
+    {
+      "label": "book-12",
+      "url": "http://127.0.0.1:4173/books/book-12/index.html",
+      "title": "HERBULANCE · The Complete Guide to Sleep & Circadian Rhythm",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 12
+        }
+      ],
+      "passes": 25,
+      "errors": []
+    },
+    {
+      "label": "book-13",
+      "url": "http://127.0.0.1:4173/books/book-13/index.html",
+      "title": "HERBULANCE — The Complete Guide to Stress Management, Emotional Wellbeing & Mind-Body Balance",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 2
+        }
+      ],
+      "passes": 27,
+      "errors": []
+    },
+    {
+      "label": "book-14",
+      "url": "http://127.0.0.1:4173/books/book-14/index.html",
+      "title": "HERBULANCE Book 14 — Physical Activity, Movement, Exercise & Lifelong Fitness",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 2
+        }
+      ],
+      "passes": 25,
+      "errors": []
+    },
+    {
+      "label": "book-15",
+      "url": "http://127.0.0.1:4173/books/book-15/index.html",
+      "title": "HERBULANCE Book 15: Healthy Ageing, Longevity & Lifelong Vitality",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ],
+      "passes": 26,
+      "errors": []
+    },
+    {
+      "label": "book-16",
+      "url": "http://127.0.0.1:4173/books/book-16/index.html",
+      "title": "HERBULANCE Book 16: The Complete Guide to Healthy Skin, Hair, Nails & Personal Care",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23
+        }
+      ],
+      "passes": 22,
+      "errors": []
+    },
+    {
+      "label": "book-17",
+      "url": "http://127.0.0.1:4173/books/book-17/index.html",
+      "title": "Cover — HERBULANCE Book 17",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 6
+        }
+      ],
+      "passes": 30,
+      "errors": []
+    },
+    {
+      "label": "book-18",
+      "url": "http://127.0.0.1:4173/books/book-18/index.html",
+      "title": "HERBULANCE Book 18 — The Complete Guide to Heart Health, Blood Circulation & Cardiovascular Wellness",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 49
+        }
+      ],
+      "passes": 24,
+      "errors": []
+    },
+    {
+      "label": "book-19",
+      "url": "http://127.0.0.1:4173/books/book-19/index.html",
+      "title": "HERBULANCE Book 19 — The Complete Guide to Brain Health, Memory, Cognitive Function & Mental Performance",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 47
+        }
+      ],
+      "passes": 25,
+      "errors": []
+    },
+    {
+      "label": "book-20",
+      "url": "http://127.0.0.1:4173/books/book-20/index.html",
+      "title": "THE COMPLETE GUIDE TO IMMUNE SYSTEM HEALTH | HERBULANCE",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 16
+        }
+      ],
+      "passes": 18,
+      "errors": []
+    },
+    {
+      "label": "book-21",
+      "url": "http://127.0.0.1:4173/books/book-21/index.html",
+      "title": "HERBULANCE Book 21 — Respiratory Health & Healthy Breathing",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 9
+        }
+      ],
+      "passes": 16,
+      "errors": []
+    },
+    {
+      "label": "book-22",
+      "url": "http://127.0.0.1:4173/books/book-22/index.html",
+      "title": "HERBULANCE Book 22 — Kidney Health",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 3
+        }
+      ],
+      "passes": 27,
+      "errors": []
+    },
+    {
+      "label": "book-23",
+      "url": "http://127.0.0.1:4173/books/book-23/index.html",
+      "title": "The Complete Guide to Liver Health · HERBULANCE Book 23",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 15
+        }
+      ],
+      "passes": 24,
+      "errors": []
+    },
+    {
+      "label": "book-24",
+      "url": "http://127.0.0.1:4173/books/book-24/index.html",
+      "title": "HERBULANCE Book 24 — Bone, Joint & Musculoskeletal Wellness",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 42
+        }
+      ],
+      "passes": 26,
+      "errors": []
+    },
+    {
+      "label": "book-25",
+      "url": "http://127.0.0.1:4173/books/book-25/index.html",
+      "title": "HERBULANCE Book 25 | The Complete Guide to Nervous System Health",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 16
+        }
+      ],
+      "passes": 27,
+      "errors": []
+    },
+    {
+      "label": "book-26",
+      "url": "http://127.0.0.1:4173/books/book-26/index.html",
+      "title": "HERBULANCE Book 26 | Eye Health & Vision",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 24
+        }
+      ],
+      "passes": 25,
+      "errors": []
+    },
+    {
+      "label": "book-27",
+      "url": "http://127.0.0.1:4173/books/book-27/index.html",
+      "title": "HERBULANCE Book 27 | Oral Health, Teeth & Gums",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        }
+      ],
+      "passes": 23,
+      "errors": []
+    },
+    {
+      "label": "book-28",
+      "url": "http://127.0.0.1:4173/books/book-28/index.html",
+      "title": "Ear Health, Hearing & Balance — HERBULANCE Book 28",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 1
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 30
+        }
+      ],
+      "passes": 19,
+      "errors": []
+    },
+    {
+      "label": "book-29",
+      "url": "http://127.0.0.1:4173/books/book-29/index.html",
+      "title": "HERBULANCE Book 29 — Reproductive, Sexual & Lifelong Health",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 3
+        }
+      ],
+      "passes": 20,
+      "errors": []
+    },
+    {
+      "label": "book-30",
+      "url": "http://127.0.0.1:4173/books/book-30/index.html",
+      "title": "HERBULANCE · Book 30 — First Aid, Injury Prevention & Everyday Emergency Preparedness",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 281
+        }
+      ],
+      "passes": 35,
+      "errors": []
+    }
+  ]
+}

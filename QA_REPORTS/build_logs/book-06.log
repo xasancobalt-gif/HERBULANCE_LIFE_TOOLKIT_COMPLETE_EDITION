@@ -1,0 +1,15 @@
+
+> react-vite-tailwind@0.0.0 build
+> vite build --base ./
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 29 modules transformed.
+✗ Build failed in 2.56s
+error during build:
+Could not resolve "./assets/herbulance-cover.jpg?inline" from "src/ReaderParts.tsx"
+file: /home/user/herbulance-project/02_extracted_sources/book-06/src/ReaderParts.tsx
+    at getRollupError (file:///home/user/herbulance-project/build-environment/node_modules/rollup/dist/es/shared/parseAst.js:355:41)
+    at error (file:///home/user/herbulance-project/build-environment/node_modules/rollup/dist/es/shared/parseAst.js:351:42)
+    at ModuleLoader.handleInvalidResolvedId (file:///home/user/herbulance-project/build-environment/node_modules/rollup/dist/es/shared/node-entry.js:23514:24)
+    at file:///home/user/herbulance-project/build-environment/node_modules/rollup/dist/es/shared/node-entry.js:23474:26

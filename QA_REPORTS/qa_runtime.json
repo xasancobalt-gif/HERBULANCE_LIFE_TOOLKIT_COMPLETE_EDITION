@@ -1,0 +1,580 @@
+{
+  "runAt": "2026-11-15T20:15:15.241Z",
+  "root": {
+    "welcome": true,
+    "title": "Welcome — HERBULANCE LIFE TOOLKIT",
+    "dashboardStats": 4,
+    "libraryCards": 30,
+    "systemCards": 7,
+    "stageCards": 7,
+    "book01Toc": 12,
+    "book25Toc": 80,
+    "sleepResults": 150,
+    "readerOpened": true,
+    "readerChars": 2326
+  },
+  "routes": [
+    {
+      "route": "library",
+      "title": "Complete Library — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 9361,
+      "newErrors": []
+    },
+    {
+      "route": "systems",
+      "title": "Seven Life Systems — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 1356,
+      "newErrors": []
+    },
+    {
+      "route": "stages",
+      "title": "Seven Life Stages — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 1263,
+      "newErrors": []
+    },
+    {
+      "route": "quick",
+      "title": "Quick Action Centre — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 1770,
+      "newErrors": []
+    },
+    {
+      "route": "learning?type=quiz",
+      "title": "Learning Centre — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 4144,
+      "newErrors": []
+    },
+    {
+      "route": "glossary",
+      "title": "Unified Glossary — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 10102,
+      "newErrors": []
+    },
+    {
+      "route": "references",
+      "title": "Reference Centre — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 10147,
+      "newErrors": []
+    },
+    {
+      "route": "personal",
+      "title": "Personal Learning Space — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 759,
+      "newErrors": []
+    },
+    {
+      "route": "help",
+      "title": "Product Information & Help — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 2501,
+      "newErrors": []
+    },
+    {
+      "route": "book-01",
+      "title": "Volume 01 · The Plant-Forward Beginner's Guide — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 2051,
+      "newErrors": []
+    },
+    {
+      "route": "book-30",
+      "title": "Volume 30 · The Complete Guide to First Aid, Injury Prevention & Everyday Emergency Preparedness — HERBULANCE LIFE TOOLKIT",
+      "bodyChars": 3755,
+      "newErrors": []
+    }
+  ],
+  "books": [
+    {
+      "volume": 1,
+      "status": 200,
+      "title": "HERBULANCE — The Plant-Forward Beginner's Guide | Interactive Digital Book",
+      "bodyChars": 29877,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 2,
+      "status": 200,
+      "title": "The Gut Health & Digestion Guide — HERBULANCE Book 02",
+      "bodyChars": 141630,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 3,
+      "status": 200,
+      "title": "The World of Herbs & Spices — HERBULANCE Book 03",
+      "bodyChars": 4542,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 4,
+      "status": 200,
+      "title": "The Smart Food Shopping & Label Reading Guide · HERBULANCE",
+      "bodyChars": 8280,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 5,
+      "status": 200,
+      "title": "The Complete Food Safety & Kitchen Hygiene Guide · HERBULANCE Book 05",
+      "bodyChars": 2120,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 6,
+      "status": 200,
+      "title": "HERBULANCE Book 06 | Cooking Methods & Culinary Skills",
+      "bodyChars": 2263,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 7,
+      "status": 200,
+      "title": "The Complete Guide to Meal Planning | HERBULANCE Book 07",
+      "bodyChars": 2769,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 8,
+      "status": 200,
+      "title": "HERBULANCE Book 08 — Food Preservation, Fermentation & Sustainable Food Storage",
+      "bodyChars": 113893,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 9,
+      "status": 200,
+      "title": "HERBULANCE Book 09 — Food Allergies, Intolerances & Special Dietary Needs",
+      "bodyChars": 4536,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 10,
+      "status": 200,
+      "title": "HERBULANCE Book 10 — The Complete Guide to Food Nutrition, Vitamins, Minerals & Essential Nutrients",
+      "bodyChars": 5165,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 11,
+      "status": 200,
+      "title": "HERBULANCE Book 11 — Healthy Weight Management, Metabolism & Sustainable Lifestyle Habits",
+      "bodyChars": 4537,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 12,
+      "status": 200,
+      "title": "HERBULANCE · The Complete Guide to Sleep & Circadian Rhythm",
+      "bodyChars": 7365,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 13,
+      "status": 200,
+      "title": "HERBULANCE — The Complete Guide to Stress Management, Emotional Wellbeing & Mind-Body Balance",
+      "bodyChars": 5144,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 14,
+      "status": 200,
+      "title": "HERBULANCE Book 14 — Physical Activity, Movement, Exercise & Lifelong Fitness",
+      "bodyChars": 5413,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 15,
+      "status": 200,
+      "title": "HERBULANCE Book 15: Healthy Ageing, Longevity & Lifelong Vitality",
+      "bodyChars": 5440,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 16,
+      "status": 200,
+      "title": "HERBULANCE Book 16: The Complete Guide to Healthy Skin, Hair, Nails & Personal Care",
+      "bodyChars": 7989,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 17,
+      "status": 200,
+      "title": "Cover — HERBULANCE Book 17",
+      "bodyChars": 7093,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 18,
+      "status": 200,
+      "title": "HERBULANCE Book 18 — The Complete Guide to Heart Health, Blood Circulation & Cardiovascular Wellness",
+      "bodyChars": 8025,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 19,
+      "status": 200,
+      "title": "HERBULANCE Book 19 — The Complete Guide to Brain Health, Memory, Cognitive Function & Mental Performance",
+      "bodyChars": 9067,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 20,
+      "status": 200,
+      "title": "THE COMPLETE GUIDE TO IMMUNE SYSTEM HEALTH | HERBULANCE",
+      "bodyChars": 2263,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 21,
+      "status": 200,
+      "title": "HERBULANCE Book 21 — Respiratory Health & Healthy Breathing",
+      "bodyChars": 2213,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 22,
+      "status": 200,
+      "title": "HERBULANCE Book 22 — Kidney Health",
+      "bodyChars": 4163,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 23,
+      "status": 200,
+      "title": "The Complete Guide to Liver Health · HERBULANCE Book 23",
+      "bodyChars": 8422,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 24,
+      "status": 200,
+      "title": "HERBULANCE Book 24 — Bone, Joint & Musculoskeletal Wellness",
+      "bodyChars": 6861,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 25,
+      "status": 200,
+      "title": "HERBULANCE Book 25 | The Complete Guide to Nervous System Health",
+      "bodyChars": 8614,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 26,
+      "status": 200,
+      "title": "HERBULANCE Book 26 | Eye Health & Vision",
+      "bodyChars": 2436,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 27,
+      "status": 200,
+      "title": "HERBULANCE Book 27 | Oral Health, Teeth & Gums",
+      "bodyChars": 2676,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 28,
+      "status": 200,
+      "title": "Ear Health, Hearing & Balance — HERBULANCE Book 28",
+      "bodyChars": 5901,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 29,
+      "status": 200,
+      "title": "HERBULANCE Book 29 — Reproductive, Sexual & Lifelong Health",
+      "bodyChars": 6462,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "volume": 30,
+      "status": 200,
+      "title": "HERBULANCE · Book 30 — First Aid, Injury Prevention & Everyday Emergency Preparedness",
+      "bodyChars": 241238,
+      "shell": true,
+      "errors": [],
+      "failedRequests": []
+    }
+  ],
+  "fileProtocol": {
+    "welcome": true,
+    "searchResults": 121,
+    "errors": [],
+    "networkRequests": [],
+    "books": [
+      {
+        "volume": 1,
+        "shell": true,
+        "bodyChars": 29877,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 2,
+        "shell": true,
+        "bodyChars": 141630,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 3,
+        "shell": true,
+        "bodyChars": 4542,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 4,
+        "shell": true,
+        "bodyChars": 8280,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 5,
+        "shell": true,
+        "bodyChars": 2120,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 6,
+        "shell": true,
+        "bodyChars": 2263,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 7,
+        "shell": true,
+        "bodyChars": 2769,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 8,
+        "shell": true,
+        "bodyChars": 113893,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 9,
+        "shell": true,
+        "bodyChars": 4536,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 10,
+        "shell": true,
+        "bodyChars": 5165,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 11,
+        "shell": true,
+        "bodyChars": 4537,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 12,
+        "shell": true,
+        "bodyChars": 7365,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 13,
+        "shell": true,
+        "bodyChars": 5144,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 14,
+        "shell": true,
+        "bodyChars": 5413,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 15,
+        "shell": true,
+        "bodyChars": 5440,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 16,
+        "shell": true,
+        "bodyChars": 7989,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 17,
+        "shell": true,
+        "bodyChars": 7093,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 18,
+        "shell": true,
+        "bodyChars": 8025,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 19,
+        "shell": true,
+        "bodyChars": 9067,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 20,
+        "shell": true,
+        "bodyChars": 2263,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 21,
+        "shell": true,
+        "bodyChars": 2213,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 22,
+        "shell": true,
+        "bodyChars": 4163,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 23,
+        "shell": true,
+        "bodyChars": 8422,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 24,
+        "shell": true,
+        "bodyChars": 6861,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 25,
+        "shell": true,
+        "bodyChars": 8614,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 26,
+        "shell": true,
+        "bodyChars": 2436,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 27,
+        "shell": true,
+        "bodyChars": 2676,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 28,
+        "shell": true,
+        "bodyChars": 5901,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 29,
+        "shell": true,
+        "bodyChars": 6462,
+        "errors": [],
+        "networkRequests": []
+      },
+      {
+        "volume": 30,
+        "shell": true,
+        "bodyChars": 241238,
+        "errors": [],
+        "networkRequests": []
+      }
+    ]
+  },
+  "responsive": {
+    "mobileMenuVisible": true,
+    "drawerOpened": true,
+    "horizontalOverflow": false
+  },
+  "errors": []
+}

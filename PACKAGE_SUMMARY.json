@@ -1,0 +1,48 @@
+{
+  "product": "HERBULANCE LIFE TOOLKIT — The Complete Digital Edition",
+  "version": "1.0.0",
+  "releaseDate": "2026-11-15",
+  "entryPoints": [
+    "HERBULANCE_LIFE_TOOLKIT.html",
+    "index.html"
+  ],
+  "content": {
+    "books": 30,
+    "chapters": 1541,
+    "searchDocuments": 3969,
+    "glossaryRecords": 1346,
+    "referenceRecords": 654,
+    "lifeSystems": 7,
+    "lifeStages": 7
+  },
+  "runtime": {
+    "accountRequired": false,
+    "serverRequired": false,
+    "internetRequiredForCoreUse": false,
+    "analyticsOrTrackers": false,
+    "storage": "Browser local storage on the user's device"
+  },
+  "verification": {
+    "sourceItemsChecksumVerified": 30,
+    "successfulViteBuilds": 25,
+    "standaloneEditions": 5,
+    "hostedVolumesTested": 30,
+    "fileProtocolOfflineVolumesTested": 30,
+    "automatedAccessibilityPagesTested": 43,
+    "automatedAccessibilityViolationsRemaining": 0,
+    "mobileVolumesTested": 30,
+    "mobileOverflowProblemsRemaining": 0
+  },
+  "healthContentStatus": "General education; source-preserved; scientific/safety risk screen completed; not independently line-by-line clinically validated.",
+  "documents": [
+    "README_START_HERE.md",
+    "CUSTOMER_INSTRUCTIONS.md",
+    "LICENCE.md",
+    "PRIVACY_NOTICE.md",
+    "MEDICAL_AND_SAFETY_DISCLAIMER.md",
+    "ATTRIBUTION_AND_THIRD_PARTY_NOTICES.md",
+    "VERSION_HISTORY.md",
+    "RELEASE_STATUS_AND_LIMITATIONS.md",
+    "SECURITY_AND_DATA_NOTE.md"
+  ]
+}
